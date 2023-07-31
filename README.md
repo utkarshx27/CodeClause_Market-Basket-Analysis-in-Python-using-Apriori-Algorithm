@@ -14,6 +14,7 @@ Before running the code, ensure you have the following installed:
 - NumPy
 - Pandas
 - apyori (a library for the Apriori algorithm)
+- Matplotlib
 
 You can install the required libraries using `pip`:
 
